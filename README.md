@@ -14,7 +14,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ### Showcase:
-(Coming soon once I figure out how to capture gifs and insert in Markdown)
+
+![Alt Text][chat-bot-gif]
 
 ### Built With:
 
@@ -34,3 +35,4 @@
 <!-- Markdown Reference Points -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rickmansfield/
+[chat-bot-gif]: https://github.com/Mansfield-R/Simple_Chatty_Bot/blob/master/Simple%20Chatty%20Bot/images/Animation.gif?raw=true
