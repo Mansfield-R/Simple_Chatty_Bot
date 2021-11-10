@@ -49,7 +49,7 @@ public class SimpleBot {
         System.out.println("Who is the most underrated Roman Emperor?");
         System.out.println("1. Claudius.");
         System.out.println("2. Majorian.");
-        System.out.println("3. Aurelius.");
+        System.out.println("3. Aurelian");
         System.out.println("4. Antoninus Pius.");
 
         boolean correctAnswer = false;
